@@ -1,0 +1,34 @@
+{
+  "Maintenance": false,
+  "ForceUpdate": false,
+  "LatestVersion": "3.0",
+  "UpdateUrl": "https://whatsapp.com/channel/0029Vb8DC6pE50Ul1WlNdz3P",
+  "TrialMode": false,
+  "TrialExpiry": "31/12/2026 11:59 PM",
+  "AdminUrl": "https://wa.me/6283168109083",
+  "Marquee": "",
+  "Users": [
+    {
+      "username": "AKASH",
+      "ID": "89bb2774d573f36b",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "AKASH",
+      "ID": "89bb2774d573f36b",
+      "Expiry": "31/12/2026",
+      "Banned": false
+    },
+    {
+      "username": "BANNED_USER",
+      "ID": "banned_device_id_example",
+      "Expiry": "",
+      "Banned": true
+    }
+  ]
+}
+
+
+
+github.com
