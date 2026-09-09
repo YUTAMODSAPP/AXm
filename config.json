@@ -3,8 +3,8 @@
   "ForceUpdate": false,
   "LatestVersion": "3.0",
   "UpdateUrl": "https://whatsapp.com/channel/0029Vb8DC6pE50Ul1WlNdz3P",
-  "TrialMode": false,
-  "TrialExpiry": "31/12/2026 11:59 PM",
+  "TrialMode": true,
+  "TrialExpiry": "31/12/2027 11:59 PM",
   "AdminUrl": "https://wa.me/6283168109083",
   "Marquee": "",
   "Users": [
